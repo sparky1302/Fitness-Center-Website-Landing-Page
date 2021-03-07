@@ -1,2 +1,8 @@
 # Fitness-Center-Website-Landing-Page
-This is a Fitness center website built using HTML CSS and JAVASCRIPT. This single page and fully resposive website.
+This is a single page and fully resposive website adaptable for all screen sizes.
+## Tecgnology Used
+* HTML
+* CSS
+* JavaScript
+## Text Editor
+* Visual Studio Code
